@@ -4,7 +4,7 @@
 
 ## About Me
 
-Currently a 3rd-year CS student at IIITG, I'm on a continuous journey of learning and growth in the ever-evolving tech landscape!
+Currently a final year CS student at IIITG, I'm on a continuous journey of learning and growth in the ever-evolving tech landscape!
 
 ## Skills
 
